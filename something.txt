@@ -2,3 +2,4 @@ first string
 second string
 third string
 ветвление 
+B
